@@ -1,0 +1,13 @@
+Month,Product,Quantity,Expiry
+January,Shampoo,120,No
+January,Soap,80,No
+January,Toothpaste,90,No
+February,Shampoo,140,No
+February,Soap,100,No
+February,Toothpaste,60,Yes
+March,Shampoo,130,No
+March,Soap,110,Yes
+March,Toothpaste,70,No
+April,Shampoo,100,No
+April,Soap,90,No
+April,Toothpaste,95,Yes
